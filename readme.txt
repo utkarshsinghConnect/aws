@@ -1,0 +1,2 @@
+Amazon web services provides various out of the box solutions. I will be uploading the solutions developed using Java and Spring here. 
+Sometimes you are expected to use some already developed solutions in Sping to AWS, for example exception handling, logging frameworks then it gets little tricky when AWS does not have clear documentations for supporting Spring framework. however, since Spring is developed on Java that means it is possible to run Spring applications as Lambda functions. I will post some typical problems with solutions soon. Stay tuned. 
